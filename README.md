@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Githubers 👋
+- 🌱 I’m currently learning how to a Frontend developer.
+- 🔭 I worked as a lecturer for 15 years, and now it is time for programming.
+- ⚡ Fun fact: I recently moved to Belgium and I can't speak dutch nor Frans yet. ( so I'll be learning a new human language beside a new programming language  :)
 
 <!--
 **Darin-Hamouda/Darin-Hamouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
