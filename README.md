@@ -1,4 +1,6 @@
-### Hi Githubers 👋
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B+;I'm+Darin+Hamouda+;">
+</div>
+
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/43448397/124969037-846c4800-e026-11eb-8575-b97c497480ec.jpg" />
 
 ![Awesome](https://awesome.re/badge.svg)
