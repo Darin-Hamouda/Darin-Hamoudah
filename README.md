@@ -1,6 +1,6 @@
 ### Hi Githubers 👋
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/43448397/124969037-846c4800-e026-11eb-8575-b97c497480ec.jpg" />
 
-![me](https://user-images.githubusercontent.com/43448397/124969037-846c4800-e026-11eb-8575-b97c497480ec.jpg)
 ![Awesome](https://awesome.re/badge.svg)
 
 - 🌱 I’m currently learning how to be a Frontend developer.
