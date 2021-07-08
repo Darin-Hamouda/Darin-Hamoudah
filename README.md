@@ -1,11 +1,12 @@
 ### Hi Githubers 👋
 
 ![me](https://user-images.githubusercontent.com/43448397/124969037-846c4800-e026-11eb-8575-b97c497480ec.jpg)
+![Awesome](https://awesome.re/badge.svg)
 
 - 🌱 I’m currently learning how to be a Frontend developer.
 - 🔭 I worked as a lecturer for 15 years, and now it is time for programming.
 - ⚡ Fun fact: I recently moved to Belgium and I can't speak dutch nor Frans yet. ( so I'll be learning a new human language beside a new programming language :metal:)
-
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/darin-hamouda-89574b15/) [Gmail](mailto:darin.m.hamouda@gmail.com)
 <!--
 **Darin-Hamouda/Darin-Hamouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
