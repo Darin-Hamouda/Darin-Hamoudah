@@ -11,8 +11,10 @@
 <div align="left">
 <a href="mailto:darin.m.hamouda@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/darin-hamouda-89574b15//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- [![Darin github stats](https://github-readme-stats.vercel.app/api?username=Darin&show_icons=false&theme=gruvbox)](https://github.com/Darin-Hamouda/github-readme-stats)
-  </div>
+ </div>
+  
+![Darin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darin-Hamouda&show_icons=true&theme=gruvbox)
+
 
 
 
